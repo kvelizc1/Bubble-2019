@@ -2,10 +2,6 @@
 package burbuja;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author kenyv
- */
 public class Burbuja {
     //Ordenamiento de burbuja. En sintesis: 1. cuenta, 2. compara, 3. intercambia si es necesario; caso contrario, pasa a la siguiente posicion. 
     public static void main(String[] args) {
